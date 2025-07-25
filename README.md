@@ -1,10 +1,11 @@
 # Temperature Conversion Application
 
-[![CI](https://github.com/muslchn/temperature-conversion/actions/workflows/ci.yml/badge.svg)](https://github.com/muslchn/temperature-conversion/actions/workflows/ci.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/muslchn/temperature-conversion)](https://goreportcard.com/report/github.com/muslchn/temperature-conversion)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CI][ci-badge]][ci-url]
+[![Go Report Card][goreport-badge]][goreport-url]
+[![License: MIT][license-badge]][license-url]
 
-A command-line temperature conversion application built in Go that converts Celsius temperatures to Fahrenheit and Réaumur scales, with location-based measurements and temperature classification.
+A command-line temperature conversion application built in Go that converts Celsius temperatures to Fahrenheit and
+Réaumur scales, with location-based measurements and temperature classification.
 
 ## Features
 
@@ -201,3 +202,11 @@ If you encounter any issues or have questions:
 ---
 
 Made with ❤️ and Go
+
+<!-- Reference Links -->
+[ci-badge]: https://github.com/muslchn/temperature-conversion/actions/workflows/ci.yml/badge.svg
+[ci-url]: https://github.com/muslchn/temperature-conversion/actions/workflows/ci.yml
+[goreport-badge]: https://goreportcard.com/badge/github.com/muslchn/temperature-conversion
+[goreport-url]: https://goreportcard.com/report/github.com/muslchn/temperature-conversion
+[license-badge]: https://img.shields.io/badge/License-MIT-yellow.svg
+[license-url]: https://opensource.org/licenses/MIT

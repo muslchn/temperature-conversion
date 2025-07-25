@@ -5,6 +5,7 @@
 *.so
 *.dylib
 temperature-converter
+temperature-conversion
 
 # Test binary, built with `go test -c`
 *.test
